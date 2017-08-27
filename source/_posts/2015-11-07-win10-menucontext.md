@@ -9,8 +9,8 @@ category: tech
 # 解决方案 #
 开始，运行：regedit，打开注册表
 
-<pre><code data-trim class="bash">
-HKEY_CLASSES_ROOT/Directory/Background/shellex/ContextMenuHandlers
-</code></pre>
+```
+    HKEY_CLASSES_ROOT/Directory/Background/shellex/ContextMenuHandlers
+```
 
 删除下面两个选项就可以了：一个是 igfxcui ,另外一个是NvCplDesktopContext如果只有一项就单独删除，如果两项都有就全部删除。
