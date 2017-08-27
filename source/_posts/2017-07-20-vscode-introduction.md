@@ -10,7 +10,7 @@ category: tech
 先来个icon镇楼 ^_^
 
 
-![](http://maplecumt.github.io/images/2017-07-12-vscode-introduction/icon.png)
+![](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/icon.png)
 
 
 
@@ -47,28 +47,28 @@ VS Code不需要安装插件，自身就实现了Emmet，默认就是打开的�
 
 VS Code本身自带JS代码提示和自动补全功能，当然，如果你觉得不够用，还可以安装各种intelligence或者snippets插件来满足需求。
 
-![JS智能提示](http://upload-images.jianshu.io/upload_images/806919-e37bd79e4a4fac33.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![JS智能提示](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/js-intelligence.png)
 
 ### Format Document
 
 对于压缩的代码，或者格式不够规范的代码文件，可以通过这个命令一键格式化代码。当然，这个功能是每个编辑器应该都有的，并不是亮点。
 
 
-![Fromat Document](http://maplecumt.github.io/images/2017-07-12-vscode-introduction/format-document.png)
+![Fromat Document](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/format-document.png)
 
 ### Auto Save
 
 自动保存功能也是大部分优秀的编辑器应该必备的。我认为VS Code里做的比较人性化的一个点是，它的设置选项里提供了四种自动保存的时机供我们选择：**off**、**afterDelay**、**onFocusChange**(编辑器失去焦点)、**onWindowChange**(窗口失去焦点)。如果设置为**afterDelay**，则可在 `files.autoSaveDelay` 中配置延迟。我比较喜欢**onWindowChange**。
 
 
-![Auto Save](http://maplecumt.github.io/images/2017-07-12-vscode-introduction/auto-save.png)
+![Auto Save](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/auto-save.png)
 
 
 ### Terminal
 
 VS Code自带打开Terminal的功能，这是Atom和Sublime所不具备的。这也算是VS Code的一大亮点。
 
-![Terminal](http://maplecumt.github.io/images/2017-07-12-vscode-introduction/terminal.png)
+![Terminal](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/terminal.png)
 
 ## 插件推荐
 
@@ -89,7 +89,7 @@ VS Code自带打开Terminal的功能，这是Atom和Sublime所不具备的。这
 - **GPM: Open Recent Git Project (Ctrl+Shift+Q)**：最近打开的git项目列表
 
 
-![Git Project Manager](http://maplecumt.github.io/images/2017-07-12-vscode-introduction/git-project-manager.gif)
+![Git Project Manager](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/git-project-manager.gif)
 
 
 插件的使用也很简单，找到配置文件中`gitProjectManager.baseProjectsFolders`把git项目的根目录放进去，就像下边这样：
@@ -114,41 +114,41 @@ VS Code自带打开Terminal的功能，这是Atom和Sublime所不具备的。这
 
 在文件的顶部展示代码变更的总的记录，包括左边的最新修改记录以及右边的所有的修改作者数量。
 
-![Code Lens](http://maplecumt.github.io/images/2017-07-12-vscode-introduction/git-lens.gif)
+![Code Lens](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/git-lens.gif)
 
 ##### Blame Annotations
 
 点击右边的作者数量可以进入整个文件的Blame Annotations。这里展示了每一行的最后一条修改记录，具体的展示方式可以在设置里自己配置，包括作者、时间和commit信息。
 
-![Blame Annotations](http://maplecumt.github.io/images/2017-07-12-vscode-introduction/blame-annotations.png)
+![Blame Annotations](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/blame-annotations.png)
 
 ##### Status Bar Blame
 
 这个是指在状态栏里展示当前光标所在行的Git Blame信息。当然这里要展示的信息和格式也是可以配置的。这样，光标所在的行的最新git记录和作者信息完全展示在了状态栏里。
 
-![Status Bar Blame](http://maplecumt.github.io/images/2017-07-12-vscode-introduction/status-bar-blame.png)
+![Status Bar Blame](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/status-bar-blame.png)
 
 ##### Interactive Blame
 
 这个功能和Status Bar Status类似，只不过，git信息是直接展示在文件中的代码后边。鼠标悬停在git记录上时，会有更详细的git变更气泡弹出。就像下边这样：
 
-![Interactive Blame](http://maplecumt.github.io/images/2017-07-12-vscode-introduction/interactive-blame.png)
+![Interactive Blame](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/interactive-blame.png)
 
 ##### Quick Menu
 
 快捷键`shift + alt + H`调出**branch history quick pick menu**，  这个菜单功能非常强大，我们可以查看之前的commits信息、所有commits信息、根据message/author/filename搜索commits信息、查看一些文件的历史记录等。
 
-![Quick Menu](http://maplecumt.github.io/images/2017-07-12-vscode-introduction/quick-menu.png)
+![Quick Menu](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/quick-menu.png)
 
-![Search by messages](http://maplecumt.github.io/images/2017-07-12-vscode-introduction/search-by-messages.png)
+![Search by messages](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/search-by-messages.png)
 
-![Search by autor 01](http://maplecumt.github.io/images/2017-07-12-vscode-introduction/search-by-author01.png)
+![Search by autor 01](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/search-by-author01.png)
 
-![Search by autor 02](http://maplecumt.github.io/images/2017-07-12-vscode-introduction/search-by-author02.png)
+![Search by autor 02](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/search-by-author02.png)
 
-![Search by filename 01](http://maplecumt.github.io/images/2017-07-12-vscode-introduction/search-by-filename01.png)
+![Search by filename 01](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/search-by-filename01.png)
 
-![Search by filename 02](http://maplecumt.github.io/images/2017-07-12-vscode-introduction/search-by-filename02.png)
+![Search by filename 02](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/search-by-filename02.png)
 
 通过message查找时，直接在输入框里输入message的关键信息即可。通过author查找时，则是输入`@author`，类似于图中的`@Zeke`。而通过filename查找，则需要注意一下，这里应该是`: filepath`，也就是相对于当前项目根目录的相对路径。类似于图中的`:lib/browser/chrome-extension.js`。除了这些之外，还可以根据commit id查找，这个用的不多，这里就不再举例了。
 
@@ -157,7 +157,7 @@ VS Code自带打开Terminal的功能，这是Atom和Sublime所不具备的。这
 项目管理插件，这个功能和Git Project Manager有点类似，只不过，这个不但能管理git项目，还可以管理其他项目。
 
 
-![Project Manager](http://maplecumt.github.io/images/2017-07-12-vscode-introduction/project-manager-commands.png)
+![Project Manager](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/project-manager-commands.png)
 
 
 这个插件一共5个命令：
