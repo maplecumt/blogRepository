@@ -76,7 +76,7 @@ VS Code自带打开Terminal的功能，这是Atom和Sublime所不具备的。这
 
 ### [Git History](https://github.com/DonJayamanne/gitHistoryVSCode)
 
-![Git History](https://maplecumt.github.io/images/2017-07-12-vscode-introduction/git-history.gif)
+![Git History](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/git-history.gif)
 
 可以查看一个文件的所有提交记录，同时还可以调出一个可视化的界面展示文件的提交记录，是git log的强化版。还可以查看某一行的所有提交记录。
 
