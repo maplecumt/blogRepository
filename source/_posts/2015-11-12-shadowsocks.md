@@ -3,8 +3,8 @@ layout: post
 title:  "安装 ShadowScoks"
 date:   2015-11-12 15:30:00
 section-type: post
-category: ShadowSocks
-tag: tech
+tag: ShadowSocks
+category: tech
 ---
 ShadowScoks是一个非常易用的翻墙工具，把它安装在自己的VPS上，就可以随心所欲的上网啦！
 # 安装 #

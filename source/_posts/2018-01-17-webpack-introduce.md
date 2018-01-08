@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: 模块化和Webpack入门
-category: Webpack
-tag: tech
+tag: Webpack
+category: tech
 ---
 ![](https://raw.githubusercontent.com/maplecumt/blogImages/master/webpack-introduce/webpack.png)
 

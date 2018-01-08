@@ -2,9 +2,9 @@
 layout: post
 title:  "为笔记本（华硕A46C）更换SSD全过程"
 date:   2015-09-29 11:23:32
-category: SSD
+tag: SSD
+category: tech
 section-type: post
-tag: tech
 ---
 前两天给自己的笔记本换了个SSD。我的笔记本是华硕A46C，2013年买的，属于超薄本。当时买的时候选的是无光驱版，因此光驱位就是一个空盒子。下图中左边的就是光驱位的空盒子。在换SSD的时候，需要买一个和这个盒子差不多形状的硬盘盒装上。我是把原来的机械硬盘放到了光驱位，然后把SSD放到了原来的机械硬盘（主硬盘）的位置，据说是主硬盘的位置能够提供更高的读取速度，我没有去查华硕这个系列的光驱位提供的接口，但是主硬盘的读取速度肯定不会低于光驱位，所以就这么换了，虽然麻烦了一些。<br>
 <img src="https://raw.githubusercontent.com/maplecumt/blogImages/master/2015-09-29-replacement%20of%20SSD/8.png" width="600px" height="287px" />
