@@ -3,6 +3,7 @@ layout: post
 section-type: post
 title: 不得不说再见
 category: poetry
+tag: poetry
 ---
 <br>
 <center>终于这宴席还是要散场</center>

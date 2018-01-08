@@ -2,7 +2,8 @@
 layout: post
 section-type: post
 title: 前端编程利器VS Code
-category: tech
+category: VS Code
+tag: tech
 ---
 
 ## 前言

@@ -2,7 +2,8 @@
 layout: post
 section-type: post
 title: 安装静态博客Jekyll
-category: tech
+category: Jekyll
+tag: tech
 ---
 <a href="http://jekyll.bootcss.com/" title="Jekyll">Jekyll</a>是一种纯文本的静态博客，安装成功之后，直接通过markdown文本就可以更新博客内容。Jekyll的安装过程比较简单，但是安装的过程中仍然会跳进很多坑。Jekyll和<a href="https://pages.github.com/">Github Pages</a>是一种很好的结合。Github Pages是github提供的一个可以免费部署个人网站且没有存储上限的一个功能。在Jekyll的官网里也有把Jekyll<a href="http://jekyll.bootcss.com/docs/github-pages/">部署到Github Pages上的教程。</a>
 

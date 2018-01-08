@@ -3,7 +3,8 @@ layout: post
 title:  "win10右键反应缓慢"
 date:   2015-11-07 11:00:00
 section-type: post
-category: tech
+category: Windows
+tag: tech
 ---
 最近装了win10，但是有一个小问题，右击电脑空白处想刷新的时候，反应特别慢，因为系统是安装在固态硬盘上的，所以不应该出现这种问题，于是网上搜罗了一些解决方法。
 # 解决方案 #
