@@ -16,7 +16,7 @@ ShadowScoks是一个非常易用的翻墙工具，把它安装在自己的VPS上
     chmod +x shadowsocks.sh
     ./shadowsocks.sh 2>&1 | tee shadowsocks.log
 ```
-
+<!-- more -->
 执行最后一条命令之后，出现一下界面：
 
 ![](https://raw.githubusercontent.com/maplecumt/blogImages/master/2015-11-12-shadowsocks/ss1.png)

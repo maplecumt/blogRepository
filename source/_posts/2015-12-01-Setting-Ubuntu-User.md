@@ -21,7 +21,7 @@ category: tech
     $ bash
     me@server:/$
 ```
-
+<!-- more -->
 为了解决这个问题，其实就是修改用户的默认shell为bash。去Google了一番，终于找到解决方案：
 [http://askubuntu.com/questions/28969/how-do-you-change-the-default-shell-for-all-users-to-bash](http://askubuntu.com/questions/28969/how-do-you-change-the-default-shell-for-all-users-to-bash "点击这里查看（Jack O'Connor的答案）")。
 方法就是，如果是root用户：

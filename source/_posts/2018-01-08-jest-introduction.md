@@ -5,6 +5,8 @@ title: Jest自动化测试简介
 category: tech
 tag: Auto Test
 ---
+![](https://raw.githubusercontent.com/maplecumt/blogImages/master/jest/jest.png)
+<!-- more -->
 # 简介
 
 Jest 被 Facebook 用来测试包括 React 应用在内的所有 JavaScript 代码。Jest 的一个理念是提供一套完整集成的 “零配置” 测试体验。

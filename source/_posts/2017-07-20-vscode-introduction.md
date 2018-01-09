@@ -6,14 +6,10 @@ tag: VS Code
 category: tech
 ---
 
-## 前言
-
-先来个icon镇楼 ^_^
-
-
 ![](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/icon.png)
+<!-- more -->
 
-
+## 前言
 
 
 前端同学使用的编辑器可选范围非常广泛。

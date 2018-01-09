@@ -14,7 +14,7 @@ category: tech
 <pre><code data-trim class="bash">
 ruby -v
 </code></pre>
-
+<!-- more -->
 可以查看当前Ruby的版本。当前Github Pages支持的是Jekyll 3.0，其依赖的Ruby 2.0及其以上版本，所以建议安装Ruby 2.0或其以上版本。
 本次安装，我是直接从github上找了一个别人做好的带主题的Jekyll，然后安装在自己的VPS上了，这个Jekyll Theme的名字叫做<a href="https://github.com/PanosSakkos/personal-jekyll-theme">Personal</a>，把它git到我vps上之后，通过一个命令就可以安装完成：
 
