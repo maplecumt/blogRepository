@@ -6,7 +6,7 @@ tag: poetry
 category: poetry
 ---
 <br>
-
+<!-- more -->
 <center>你不经意间扣开了我的心窗</center>
 <center>点亮了一点小小的希望</center>
 <center>像深秋夜空中细细的星子</center>

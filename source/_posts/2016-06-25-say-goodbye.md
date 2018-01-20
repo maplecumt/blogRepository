@@ -6,6 +6,7 @@ tag: poetry
 category: poetry
 ---
 <br>
+<!-- more -->
 <center>终于这宴席还是要散场</center>
 <center>请不要为我鼓掌</center>
 <center>也不要欢送</center>
