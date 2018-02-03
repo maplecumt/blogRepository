@@ -1,9 +1,9 @@
 // Insight Search Styles
-ins-container-width = 540px
+ins-container-width = 740px
 ins-text-grey = #9a9a9a
 ins-border-grey = #e2e2e2
 ins-background-grey = #f7f7f7
-ins-background-blue = color-theme
+ins-background-blue = #f0ad4e
 
 $ins-full-screen
     top: 0
@@ -39,16 +39,23 @@ $ins-full-screen
     width: 100%
     border: none
     outline: none
-    font-size: 16px
+    font-size: 26px
     box-shadow: none
-    font-weight: 200
+    font-weight: bold
     border-radius: 0
-    background: white
-    line-height: 20px
+    background-color: rgb(68, 138, 255)
+    color: #fff
+    line-height: 27px
     box-sizing: border-box
-    padding: 12px 28px 12px 20px
+    padding: 20px 28px 20px 20px
     border-bottom: 1px solid ins-border-grey
     font-family: "Microsoft Yahei Light", "Microsoft Yahei", Helvetica, Arial, sans-serif
+.ins-search-input::-moz-placeholder 
+    color: #fff
+.ins-search-input::-webkit-input-placeholder
+    color: #fff
+.ins-search-input:-ms-input-placeholder
+    color: #fff
 
 .ins-close
     top: 50%
@@ -82,7 +89,7 @@ $ins-full-screen
 .ins-section-wrapper
     left: 0
     right: 0
-    top: 45px
+    top: 68px
     bottom: 0
     overflow-y: auto
     position: absolute
