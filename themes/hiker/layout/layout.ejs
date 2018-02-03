@@ -15,7 +15,7 @@
         <%- partial('_partial/header-post') %>
       <% } %>
             
-      <div id="content" class="outer">
+      <div id="content" class="outer article-content">
         <% if (theme.sidebar && theme.sidebar !== 'bottom' && (is_archive())){ %>
           <section id="main"><%- body %></section>
           <%- partial('_partial/sidebar', null, {cache: !config.relative_link}) %>
