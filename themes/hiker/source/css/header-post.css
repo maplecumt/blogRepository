@@ -15,6 +15,9 @@
 	background: transparent;
 	z-index: 2;
 }
+.navbar-nav {
+	font-family: 'HanHei SC', 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'Microsoft Yahei Light', 'STHeitiSC-Light', 'Arial', sans-serif;
+}
 .navbar-default .navbar-nav > li > a {
     color: #555;
     position: relative;
