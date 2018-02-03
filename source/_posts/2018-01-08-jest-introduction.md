@@ -4,6 +4,7 @@ section-type: post
 title: Jest自动化测试简介
 category: tech
 tag: Auto Test
+date: 2018-01-08
 ---
 ![](https://raw.githubusercontent.com/maplecumt/blogImages/master/jest/jest.png)
 <!-- more -->

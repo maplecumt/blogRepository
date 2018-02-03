@@ -6,6 +6,7 @@ tag: poetry
 category: poetry
 ---
 <br>
+![](https://raw.githubusercontent.com/maplecumt/blogImages/master/poetry/say-goodbye.jpg)
 <!-- more -->
 <center>终于这宴席还是要散场</center>
 <center>请不要为我鼓掌</center>

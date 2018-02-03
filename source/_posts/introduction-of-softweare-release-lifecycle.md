@@ -4,6 +4,7 @@ section-type: post
 title: 软件开发生命周期
 category: tech
 tag: IT
+date: 2018-01-20
 ---
 ![](https://raw.githubusercontent.com/maplecumt/blogImages/master/introduction-of-software-release-life-cycle/software-release-life-cycle.jpg)
 <!-- more -->

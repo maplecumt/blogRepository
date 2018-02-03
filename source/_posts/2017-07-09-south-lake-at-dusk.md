@@ -7,6 +7,7 @@ category: poetry
 date: 2017-07-09
 ---
 <br>
+![](https://raw.githubusercontent.com/maplecumt/blogImages/master/poetry/south-lake-at-dusk.jpg)
 <!-- more -->
 <center>没有偶遇记忆中雨后的彩虹</center>
 <center>这里清清静静悄悄依旧</center>
