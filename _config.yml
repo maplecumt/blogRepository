@@ -86,3 +86,20 @@ prism_plugin:
   mode: 'preprocess'    # realtime/preprocess
   theme: 'atom-dark' #https://github.com/PrismJS/prism-themes#available-themes
   line_number: true    # default false
+
+# Live2D
+## https://github.com/EYHN/hexo-helper-live2d
+live2d:
+  model: haruto # The model that you are willing to show. default: z16
+  width: 150 # The width of your model. default: 150
+  height: 300 # The height of your model. default: 300
+  scaling: 1 # The scaling of the resolution. default: 2
+  opacityDefault: 0.7 # The default opacity. default: 0.7
+  opacityHover: 1 # The opacity when hover. default: 1
+  mobileShow: true # Whether to show on mobile devices. default: true
+  mobileScaling: 0.5 # The scaling on mobile. default: 0.5
+  position: right # Which side the model is shown at. default: right
+  horizontalOffset: 0 # The horizontal offset. default: 0
+  verticalOffset: -20 # The offset of the bottom. default: -20
+  id: live2dcanvas # The ID of the live2d element. default: live2dcanvas
+  deviceJsSource: local # The source of the current-device script. default: local
