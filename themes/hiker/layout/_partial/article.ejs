@@ -33,6 +33,7 @@
       <% } %>
       <%- partial('post/tag') %>
     </footer>
+    <div id="gitMentContainer"></div>    
   </div>
   <% if (!index){ %>
     <%- partial('post/nav') %>
@@ -60,4 +61,18 @@
     location.href = $(this).parents('.article-excerpt-container').attr('href');
     return false;
   })
+</script>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+  var gitment = new Gitment({
+    id: '<%= page.title %>', // 可选。默认为 location.href
+    owner: '<%= theme.gitment.githubID%>', // 可以是你的GitHub用户名，也可以是github id
+    repo: '<%= theme.gitment.repo%>',
+    oauth: {
+      client_id: '<%= theme.gitment.ClientID%>',
+      client_secret: '<%= theme.gitment.ClientSecret%>',
+    },
+  })
+  gitment.render('gitMentContainer')
 </script>
