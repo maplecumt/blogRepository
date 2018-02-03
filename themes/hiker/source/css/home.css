@@ -260,3 +260,7 @@ footer>.container>.row>p>a:hover  {
 		letter-spacing: 4px;
 	}
 }
+
+#gitMentContainer {
+	display: none;
+}
