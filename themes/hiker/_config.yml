@@ -165,5 +165,5 @@ show_busuanzi_view_counts: true
 donate:
     enable: true
     message: '如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作!'
-    wechatImage: 
-    alipayImage:
+    wechatImage: https://raw.githubusercontent.com/maplecumt/blogImages/master/QrCode/WeChat.jpg
+    alipayImage: https://raw.githubusercontent.com/maplecumt/blogImages/master/QrCode/Alipay.jpg
