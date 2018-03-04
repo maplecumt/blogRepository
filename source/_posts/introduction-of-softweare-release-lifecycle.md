@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: 软件开发生命周期
-category: tech
+category: Tech
 tag: IT
 date: 2018-01-20
 ---

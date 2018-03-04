@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: 不得不说再见
-tag: poetry
-category: poetry
+tag: Poetry
+category: Poetry
 ---
 <br>
 ![](https://raw.githubusercontent.com/maplecumt/blogImages/master/poetry/say-goodbye.jpg)

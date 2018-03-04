@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Jest自动化测试简介
-category: tech
+category: Tech
 tag: Auto Test
 date: 2018-01-08
 ---

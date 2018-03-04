@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: 残诗
-tag: poetry
-category: poetry
+tag: Poetry
+category: Poetry
 date: 2018-01-08
 ---
 <br>

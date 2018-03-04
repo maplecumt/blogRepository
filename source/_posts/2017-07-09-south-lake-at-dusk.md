@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: 南湖向晚
-tag: poetry
-category: poetry
+tag: Poetry
+category: Poetry
 date: 2017-07-09
 ---
 <br>

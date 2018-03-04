@@ -4,7 +4,7 @@ title:  "Ubuntu用户设置"
 section-type: post
 date:   2015-12-01 12:00:00
 tag: Ubuntu
-category: tech
+category: Tech
 ---
 最近在安装实验室一台服务器，系统装的是Ubuntu 14.04，今天在添加用户的时候出了点小问题，在这里总结一下。
 
