@@ -4,6 +4,7 @@ section-type: post
 title: 夜雨
 tag: Poetry
 category: Poetry
+date: 2017-07-21
 ---
 <br>
 ![](https://raw.githubusercontent.com/maplecumt/blogImages/master/poetry/raining-night.jpg)

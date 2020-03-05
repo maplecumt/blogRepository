@@ -4,6 +4,7 @@ section-type: post
 title: 前端编程利器VS Code
 tag: VS Code
 category: Tech
+date: 2017-07-20
 ---
 
 ![](https://raw.githubusercontent.com/maplecumt/blogImages/master/2017-07-12-vscode-introduction/icon.png)

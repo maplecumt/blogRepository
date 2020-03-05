@@ -4,6 +4,7 @@ section-type: post
 title: 不得不说再见
 tag: Poetry
 category: Poetry
+date: 2016-06-25
 ---
 <br>
 ![](https://raw.githubusercontent.com/maplecumt/blogImages/master/poetry/say-goodbye.jpg)
